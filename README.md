@@ -1,4 +1,4 @@
 # Learning Cryptography
 
-Trying to learning cryptography using the free tutorialspoint book "CRYPTOGRAPHY WITH PYTHON"
+Trying to improve python with cryptography using the free tutorialspoint's book "CRYPTOGRAPHY WITH PYTHON"
 
