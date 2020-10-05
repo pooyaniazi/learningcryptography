@@ -1,5 +1,9 @@
 # 01 CAESAR CIPHER
 
+# Chr => Make Unicode case to a string 
+# Ord => Make a String to a Unicode Character
+# /Unidcode/ Some kind of characters which encrypt 8-bit fromat texts.
+
 
 def encrypt (text, s):
     result = ""
